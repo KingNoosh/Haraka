@@ -37,7 +37,7 @@
   },
   "optionalDependencies": {
     "haraka-plugin-asn"     : "*",
-    "haraka-plugin-elasticsearch" : "*",
+    "haraka-plugin-elasticsearch" : "1.0.2",
     "haraka-plugin-fcrdns"  : "*",
     "haraka-plugin-geoip"   : "*",
     "haraka-plugin-karma"   : "*",
